@@ -1,0 +1,22 @@
+{
+  "name": "blockchaindemo",
+  "version": "1.0.0",
+  "description": "BlockChain Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amitawinash/BlockChainDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amitawinash/BlockChainDemo/issues"
+  },
+  "homepage": "https://github.com/Amitawinash/BlockChainDemo#readme",
+  "dependencies": {
+    "object-hash": "^1.3.0"
+  }
+}
